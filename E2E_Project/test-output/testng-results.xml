@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-03T16:36:36 IST" name="Default suite" finished-at="2025-05-03T16:36:53 IST" duration-ms="17062">
+    <groups>
+    </groups>
+    <test started-at="2025-05-03T16:36:36 IST" name="Default test" finished-at="2025-05-03T16:36:53 IST" duration-ms="17062">
+      <class name="Tests.AdminPage">
+        <test-method is-config="true" signature="Start()[pri:0, instance:Tests.AdminPage@2e6a8155]" started-at="2025-05-03T16:36:36 IST" name="Start" finished-at="2025-05-03T16:36:49 IST" duration-ms="12716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Start -->
+        <test-method signature="Login()[pri:0, instance:Tests.AdminPage@2e6a8155]" started-at="2025-05-03T16:36:49 IST" name="Login" finished-at="2025-05-03T16:36:51 IST" duration-ms="2767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.AdminPage@2e6a8155]" started-at="2025-05-03T16:36:51 IST" name="teardown" finished-at="2025-05-03T16:36:53 IST" duration-ms="1430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Tests.AdminPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
