@@ -19,7 +19,7 @@ public class Loginpage {
 
 	
 
-
+//em ardam katle
 	public Loginpage(WebDriver driver) throws IOException
 	{
 		dr=driver;
