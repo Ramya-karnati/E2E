@@ -19,7 +19,7 @@ public class Loginpage {
 
 	
 
-//em ardam katle
+//em ardam katleokkk will try next
 	public Loginpage(WebDriver driver) throws IOException
 	{
 		dr=driver;
